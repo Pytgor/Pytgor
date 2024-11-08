@@ -1,4 +1,4 @@
-<h1>Hi, I'm Moises! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/Moises/">Linux Sysadmin</a>
+<h1>Hi, I'm Moises! <br/><a href="https://github.com/Moises"></a><a href="https://www.linkedin.com/in/Moises/">Linux Sysadmin</a>
 
 <h2>👨‍💻 Linux System Administrator Projects:</h2>
 
