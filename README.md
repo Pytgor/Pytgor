@@ -7,7 +7,7 @@
   - [Update and Backup Script](https://github.com/Pytgor/script.git)
   - [Obsidian Notes](https://github.com/Pytgor/Obsidian.git)
   
-- <b>Python</b>
+- <b>Docker Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
