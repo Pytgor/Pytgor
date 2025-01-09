@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Linux System Administrator Projects:</h2>
 
-<h3>Ansible Projects</h3>
+<h3> Ansible Projects</h3>
 
   - [Ansible Administration task](https://github.com/Pytgor/ansible.git)
   
@@ -14,17 +14,16 @@
   
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-
 <h3>📑Certifications </h3>
     
   - [Window Server 2016 Install and Storage](https://github.com/Pytgor/Certifications.git)
   
   - [Linux+ Certification](https://github.com/Pytgor/Certifications.git)
 
-<b> Kubernetes Project <b>
+<h3> Kubernetes Project <h3>
 
 
-<h3> 🧑‍🎓 Education </h3>
+<h3>🧑‍🎓Education </h3>
   
   - [Computer technology Associate]
   
