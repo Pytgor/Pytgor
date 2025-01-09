@@ -11,16 +11,16 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-<h2>📑Certifications </h2>
+<b>📑Certifications </b2>
     
   - [Window Server 2016 Install and Storage](https://github.com/Pytgor/Certifications.git)
   
   - [Linux+ Certification](https://github.com/Pytgor/Certifications.git)
 
-<h2> Kubernetes Project </h2>
+<b> Kubernetes Project <b>
 
 
-<h2> 🧑‍🎓 Education </h2>
+<b> 🧑‍🎓 Education </b>
   
   - [Computer technology Associate]
   
