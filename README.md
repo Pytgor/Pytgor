@@ -4,7 +4,7 @@
 
 <h3> Ansible Projects</h3>
 
-  - [Ansible Administration task](https://github.com/Pytgor/ansible.git)
+  - [Ansible Administration task](https://github.com/Pytgor/Ansible_webserverdb.git)
   
   - [Update and Backup Script](https://github.com/Pytgor/script.git)
   
