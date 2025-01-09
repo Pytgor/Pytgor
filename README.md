@@ -4,7 +4,9 @@
 
 <h2>Ansible Projects</h2>
   - [Ansible Administration task](https://github.com/Pytgor/ansible.git)
+  
   - [Update and Backup Script](https://github.com/Pytgor/script.git)
+  
   - [Obsidian Notes](https://github.com/Pytgor/Obsidian.git)
   
   <b>Docker Projects</b>
