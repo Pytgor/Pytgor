@@ -10,11 +10,12 @@
   
   - [Obsidian Notes](https://github.com/Pytgor/Obsidian.git)
   
-  <b>Docker Projects</b>
+  <h3>Docker Projects</h3>
+  
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-<b>📑Certifications </b2>
+<h3>📑Certifications </h3>
     
   - [Window Server 2016 Install and Storage](https://github.com/Pytgor/Certifications.git)
   
@@ -23,7 +24,7 @@
 <b> Kubernetes Project <b>
 
 
-<b> 🧑‍🎓 Education </b>
+<h3> 🧑‍🎓 Education </h3>
   
   - [Computer technology Associate]
   
@@ -35,7 +36,7 @@
 
 [twitter]: https://twitter.com/username
 [instagram]: https://www.instagram.com/username/
-[linkedin]: https://linkedin.com/in/username
+[linkedin]: www.linkedin.com/in/moiseskourygil
 
 <!--
 **Pytgor/Pytgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
