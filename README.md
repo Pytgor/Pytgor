@@ -17,6 +17,8 @@
   
   - [Linux+ Certification](https://github.com/Pytgor/Certifications.git)
 
+<h2> Kubernetes Project </h2>
+
 
 <h2> 🧑‍🎓 Education </h2>
   
