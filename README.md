@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Linux System Administrator Projects:</h2>
 
-- <b>Ansible Projects</b>
+<b> Ansible Projects </b>
   - [Ansible Administration task](https://github.com/Pytgor/ansible.git)
   - [Update and Backup Script](https://github.com/Pytgor/script.git)
   - [Obsidian Notes](https://github.com/Pytgor/Obsidian.git)
   
-- <b>Docker Projects</b>
+  <b>Docker Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
