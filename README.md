@@ -22,7 +22,7 @@
     
   - [Window Server 2016 Install and Storage](https://github.com/Pytgor/Certifications.git)
   
-  - [Linux+ Certification](CompTIA Linux+ ce certificate.pdf)
+  - [Linux+ Certification](https://github.com/Pytgor/Certifications.git)
 
 <h3>🧑‍🎓Education</h3>
 
