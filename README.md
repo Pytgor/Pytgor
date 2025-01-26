@@ -12,7 +12,7 @@
   
   <h3>Docker Projects</h3>
   
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Nginx Reverser proxy](https://github.com/Pytgor/docker_pj.git)
 
 <h3>📑Certifications </h3>
     
