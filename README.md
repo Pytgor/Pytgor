@@ -34,7 +34,6 @@
 [<img align="left" alt="Moises Koury Gil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/username
-[instagram]: https://www.instagram.com/username/
 [linkedin]: www.linkedin.com/in/moiseskourygil
 
 <!--
