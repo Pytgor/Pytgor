@@ -5,14 +5,18 @@
 <h3> Ansible Projects</h3>
 
   - [Ansible Administration task](https://github.com/Pytgor/Ansible_webserverdb.git)
-  
-  - [Update and Backup Script](https://github.com/Pytgor/script.git)
-  
-  - [Obsidian Notes](https://github.com/Pytgor/Obsidian.git)
-  
+   
   <h3>Docker Projects</h3>
   
   - [Nginx Reverser proxy](https://github.com/Pytgor/docker_pj.git)
+
+<h3> Scripts </h3>
+
+  - [Update and Backup Script](https://github.com/Pytgor/script.git)
+
+<h3> Notes </h3> 
+
+ - [Obsidian Notes](https://github.com/Pytgor/Obsidian.git)
 
 <h3>📑Certifications </h3>
     
@@ -20,12 +24,10 @@
   
   - [Linux+ Certification](https://github.com/Pytgor/Certifications.git)
 
-<h3> Kubernetes Project <h3>
+<h3>🧑‍🎓Education</h3>
 
+  - [Computer Technology Associate Degree]
 
-<h3>🧑‍🎓Education </h3>
-  
-  - [Computer technology Associate]
   
 <h2> 🤳 Connect with me:</h2>
 
