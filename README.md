@@ -14,6 +14,10 @@
 
   - [Update and Backup Script](https://github.com/Pytgor/script.git)
 
+<h3> AWS VPC Module </h3>
+
+  - [Update and Backup Script](https://github.com/Pytgor/terraform-aws-module)
+
 <h3> Notes </h3> 
 
  - [Obsidian Notes](https://github.com/Pytgor/Obsidian.git)
